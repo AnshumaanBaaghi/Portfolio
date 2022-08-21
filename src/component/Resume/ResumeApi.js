@@ -4,7 +4,7 @@ const ResumeApi = [
     category: "education",
     year: "Masai School (2021 - present)",
     title: "Full Stack Web Developer",
-    desc: "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    desc: "",
     rate: "4.30/5",
   },
   {
@@ -12,7 +12,7 @@ const ResumeApi = [
     category: "education",
     year: "Govt. Subhash Excellence H.S School (2019 - 2020)",
     title: "Higher Secondary",
-    desc: "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    desc: "",
     rate: "4.50/5",
   },
   {
@@ -20,7 +20,7 @@ const ResumeApi = [
     category: "education",
     year: "Govt. Subhash Excellence H.S School (2018 - 2019)",
     title: "High School",
-    desc: "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    desc: "",
     rate: "4.80/5 ",
   },
   {
