@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.03ebcfca.css",
-    "main.js": "/Portfolio/static/js/main.081e7789.js",
+    "main.js": "/Portfolio/static/js/main.c86a2053.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Youtube.png": "/Portfolio/static/media/Youtube.ac04247b7aa77084d421.png",
     "static/media/HindustanTimes.png": "/Portfolio/static/media/HindustanTimes.2e8505f2fba97f314029.png",
@@ -9,6 +9,7 @@
     "static/media/InternTheory.png": "/Portfolio/static/media/InternTheory.b8e7985829579b288012.png",
     "static/media/coding.gif": "/Portfolio/static/media/coding.ca5e6cae604b7e49440b.gif",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.123f0823290bb0e7fc9c.png",
+    "static/media/Tmetric.png": "/Portfolio/static/media/Tmetric.8d573ed9509f98fb270e.png",
     "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.79da213423ac0def2058.ttf",
     "static/media/logo.png": "/Portfolio/static/media/logo.a336d9a459887ada5efd.png",
     "static/media/fa-brands-400.ttf": "/Portfolio/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
@@ -22,11 +23,11 @@
     "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
     "index.html": "/Portfolio/index.html",
     "main.03ebcfca.css.map": "/Portfolio/static/css/main.03ebcfca.css.map",
-    "main.081e7789.js.map": "/Portfolio/static/js/main.081e7789.js.map",
+    "main.c86a2053.js.map": "/Portfolio/static/js/main.c86a2053.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03ebcfca.css",
-    "static/js/main.081e7789.js"
+    "static/js/main.c86a2053.js"
   ]
 }
