@@ -47,6 +47,6 @@ const ResumeApi = [
     desc: "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
     rate: "5.00/5 ",
   },
-]
+];
 
-export default ResumeApi
+export default ResumeApi;
